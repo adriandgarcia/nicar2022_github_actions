@@ -3845,3 +3845,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T13:01:00.450Z,34.9861667,-118.5503333,4.3,1.55,ml,22.0,50.0,0.1715,0.18,ci,ci39971079,2022-03-18T13:05:06.220Z,"19km SSW of Tehachapi, CA",earthquake,0.28,1.03,0.311,30.0,automatic,ci,ci
 2022-03-18T12:50:53.933Z,23.8643,122.3312,10.0,4.8,mb,,73.0,0.74,0.7,us,us6000h5pg,2022-03-18T13:07:50.040Z,"75 km E of Hualien City, Taiwan",earthquake,3.4,1.8,0.062,79.0,reviewed,us,us
 2022-03-18T13:32:59.400Z,38.7901649,-122.7624969,2.06,0.25,md,15.0,64.0,0.01067,0.02,nc,nc73707211,2022-03-18T13:34:35.389Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.6,0.15,4.0,automatic,nc,nc
+2022-03-18T12:57:07.440Z,17.8695,-66.9248333333333,11.72,2.58,md,11.0,248.0,,0.12,pr,pr71340728,2022-03-18T13:55:25.180Z,"11 km S of Guánica, Puerto Rico",earthquake,0.82,0.53,0.172962890930052,6.0,reviewed,pr,pr
