@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-29T03:44:40.170Z,36.0928345,-120.213501,12.56,1.38,md,9,133,0.1281,0.11,nc,nc73711736,2022-03-29T03:46:15.268Z,"12km NW of Avenal, CA",earthquake,1.37,1.99,0.13,2,automatic,nc,nc
-2022-03-29T03:41:20.020Z,34.4451667,-119.2625,2.29,1.57,ml,20,65,0.1005,0.28,ci,ci39980935,2022-03-29T03:45:16.194Z,"2km W of Ojai, CA",earthquake,0.53,1.28,0.109,33,automatic,ci,ci
+2022-03-29T03:56:36.870Z,33.6566667,-116.7188333,13.86,1.28,ml,40,51,0.0545,0.18,ci,ci39980943,2022-03-29T04:00:13.276Z,"9km S of Idyllwild, CA",earthquake,0.21,0.37,0.191,26,automatic,ci,ci
+2022-03-29T03:54:17.786Z,37.2084,-117.3699,7.9,1.4,ml,21,140.43,0.126,0.2696,nn,nn00836224,2022-03-29T03:57:43.188Z,"56 km SSW of Goldfield, Nevada",earthquake,,0.8,0.85,12,automatic,nn,nn
+2022-03-29T03:46:07.027Z,63.9726,-145.3928,12.7,1.5,ml,,,,0.67,ak,ak02241lcpp4,2022-03-29T03:48:50.845Z,"9 km ENE of Fort Greely, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-29T03:44:40.170Z,36.0928345,-120.213501,12.56,1.38,md,9,133,0.1281,0.11,nc,nc73711736,2022-03-29T03:57:10.503Z,"12km NW of Avenal, CA",earthquake,1.37,1.99,0.13,2,automatic,nc,nc
+2022-03-29T03:41:20.020Z,34.4451667,-119.2625,2.29,1.57,ml,20,65,0.1005,0.28,ci,ci39980935,2022-03-29T03:52:34.730Z,"2km W of Ojai, CA",earthquake,0.53,1.28,0.109,33,automatic,ci,ci
 2022-03-29T03:36:14.924Z,64.8775,-148.679,20.1,1.6,ml,,,,0.78,ak,ak02241lal6s,2022-03-29T03:44:39.489Z,"31 km W of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-29T03:30:31.820Z,38.8376656,-122.7981644,2,0.33,md,12,71,0.006152,0.01,nc,nc73711726,2022-03-29T03:47:15.322Z,"7km WNW of Cobb, CA",earthquake,0.31,0.6,0.35,2,automatic,nc,nc
 2022-03-29T03:29:32.240Z,19.1515007019043,-155.468002319336,31.5400009155273,1.96000004,md,36,161,,0.159999996,hv,hv72965577,2022-03-29T03:32:45.470Z,"5 km S of Pāhala, Hawaii",earthquake,0.75,1.03999996,1.32000005,14,automatic,hv,hv
@@ -238,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T04:11:36.960Z,38.8105011,-122.7716675,1.7,0.84,md,8,132,0.007564,0.02,nc,nc73711366,2022-03-28T04:29:26.823Z,"4km NNW of The Geysers, CA",earthquake,0.51,0.81,,1,automatic,nc,nc
 2022-03-28T04:10:32.620Z,60.0147,-152.8465,110.4,2,ml,,,,0.44,ak,ak0223zy7527,2022-03-28T04:31:13.040Z,"62 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-28T04:02:19.912Z,38.5212,-119.524,5.4,0.9,ml,12,99.64,0.065,0.1003,nn,nn00836170,2022-03-28T04:05:47.205Z,"4 km W of Walker, California",earthquake,,0.7,0.44,5,automatic,nn,nn
-2022-03-28T03:59:20.547Z,38.5168,-119.5268,1.9,1.4,ml,10,126.7,0.069,0.1428,nn,nn00836168,2022-03-28T04:02:51.170Z,"4 km W of Walker, California",earthquake,,3.7,0.38,5,automatic,nn,nn
