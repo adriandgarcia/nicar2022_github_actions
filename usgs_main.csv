@@ -7148,3 +7148,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T11:29:06.470Z,58.2848333333333,-154.973,2.16,-0.31,ml,6.0,135.0,,0.12,av,av91053103,2022-03-30T03:17:27.460Z,"85 km NNW of Karluk, Alaska",earthquake,0.44,0.91,0.177861574715964,6.0,reviewed,av,av
 2022-03-30T03:21:42.608Z,0.0184,124.4623,70.92,4.5,mb,,67.0,1.991,0.67,us,us7000gya8,2022-03-30T03:32:55.040Z,"148 km SSW of Tomohon, Indonesia",earthquake,8.6,7.8,0.144,14.0,reviewed,us,us
 2022-03-30T03:05:14.028Z,-30.1964,-69.3708,126.31,4.1,mb,,66.0,0.663,0.64,us,us7000gya5,2022-03-30T03:26:29.040Z,"60 km W of San José de Jáchal, Argentina",earthquake,7.0,8.8,0.261,4.0,reviewed,us,us
+2022-03-30T04:03:26.082Z,61.054,-148.3717,0.0,0.9,ml,,,,0.57,ak,ak0224398bnl,2022-03-30T04:05:44.420Z,"35 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-30T03:57:03.352Z,58.9358,-153.9769,99.0,2.2,ml,,,,0.57,ak,ak022438yeu2,2022-03-30T04:06:10.155Z,"72 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-29T17:06:25.590Z,52.3328333333333,-174.1715,-2.19,0.39,ml,5.0,161.0,,0.24,av,av91525326,2022-03-30T04:05:04.440Z,"15 km N of Atka, Alaska",earthquake,0.89,2.49,0.199591447062364,5.0,reviewed,av,av
