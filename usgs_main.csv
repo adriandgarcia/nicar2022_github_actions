@@ -9530,3 +9530,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T20:11:33.410Z,34.0631667,-117.2756667,11.47,1.83,ml,54.0,38.0,0.04523,0.18,ci,ci39988287,2022-04-07T20:22:31.900Z,"2km NW of Loma Linda, CA",earthquake,0.2,0.42,0.089,27.0,automatic,ci,ci
 2022-04-07T20:11:04.550Z,65.2658,-157.9889,12.4,2.4,ml,,,,0.72,ak,ak0224gr3p8f,2022-04-07T20:20:31.466Z,"45 km NNW of Koyukuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-07T12:44:17.701Z,36.8376,-115.9475,6.0,0.5,ml,12.0,180.15,0.04,0.1463,nn,nn00836850,2022-04-07T20:17:20.509Z,"38 km NW of Indian Springs, Nevada",earthquake,,2.2,0.34,8.0,reviewed,nn,nn
+2022-04-07T20:33:50.460Z,19.3263339996338,-155.197998046875,0.689999997615814,1.76999998,md,36.0,89.0,,0.170000002,hv,hv72976622,2022-04-07T20:37:09.820Z,"13 km SSE of Volcano, Hawaii",earthquake,0.32,0.460000008,0.280000001,17.0,automatic,hv,hv
+2022-04-07T19:59:47.660Z,44.4378333,-110.3418333,4.87,0.62,md,10.0,93.0,0.06144,0.07,uu,uu60489507,2022-04-07T20:44:55.000Z,"65 km ESE of West Yellowstone, Montana",earthquake,0.35,0.67,0.214,7.0,reviewed,uu,uu
