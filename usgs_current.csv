@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-13T22:34:19.296Z,59.7436,-152.2803,66.2,1.1,ml,,,,0.77,ak,ak0224qpnm1h,2022-04-13T22:37:23.908Z,"25 km W of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-04-13T22:28:24.420Z,17.9246666666667,-66.9456666666667,10.68,2.52,md,17,227,,0.12,pr,pr71344503,2022-04-13T22:49:58.810Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.67,0.39,0.0861144163537291,6,reviewed,pr,pr
 2022-04-13T22:16:34.158Z,64.9154,-148.6596,16.2,1,ml,,,,0.33,ak,ak0224qpjs9j,2022-04-13T22:30:21.468Z,"31 km WNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-13T22:13:54.663Z,61.5816,-149.8191,54,1.5,ml,,,,0.3,ak,ak0224qpj6p6,2022-04-13T22:17:01.303Z,"5 km S of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-13T22:09:52.425Z,61.3154,-146.7446,16.7,2,ml,,,,0.77,ak,ak0224qpibll,2022-04-13T22:14:26.518Z,"29 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -269,5 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T22:57:46.020Z,37.9216667,-122.0056667,11.75,0.96,md,13,100,0.06356,0.06,nc,nc73717581,2022-04-13T00:27:14.061Z,"5km S of Concord, CA",earthquake,0.36,0.62,0.113,9,reviewed,nc,nc
 2022-04-12T22:54:00.860Z,44.7343333,-111.0876667,9.4,0.62,ml,12,78,0.06323,0.2,uu,uu60491212,2022-04-13T15:05:54.770Z,"8 km N of West Yellowstone, Montana",earthquake,0.57,1.37,0.336,2,reviewed,uu,uu
 2022-04-12T22:52:31.950Z,40.862,-111.6453333,11.25,1.79,ml,38,46,0.1479,0.13,uu,uu60491207,2022-04-13T14:51:25.250Z,"13 km NNW of Summit Park, Utah",earthquake,0.2,0.43,0.125,5,reviewed,uu,uu
-2022-04-12T22:44:46.450Z,38.8393326,-122.8075027,2.15,0.85,md,11,121,0.01343,0.01,nc,nc73717576,2022-04-12T23:01:13.575Z,"8km WNW of Cobb, CA",earthquake,0.34,1.09,,1,automatic,nc,nc
-2022-04-12T22:41:04.810Z,38.1421667,-112.6418333,12.35,1.68,ml,11,189,0.2829,0.06,uu,uu60491202,2022-04-12T22:55:39.730Z,"14 km S of Beaver, Utah",earthquake,0.64,0.87,0.052,2,reviewed,uu,uu
