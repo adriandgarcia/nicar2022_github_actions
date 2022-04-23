@@ -13814,3 +13814,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T03:40:37.240Z,65.1608,-148.9945,9.4,1.4,ml,,,,0.39,ak,ak02256xr63j,2022-04-23T03:44:47.944Z,"16 km E of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-23T03:38:32.991Z,62.1016,-148.1081,38.7,0.9,ml,,,,0.3,ak,ak02256xqqd1,2022-04-23T03:40:52.802Z,"38 km NNE of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-23T03:30:25.310Z,35.59,-117.3835,5.46,2.23,ml,30.0,106.0,0.06424,0.17,ci,ci40244152,2022-04-23T03:41:25.800Z,"19km S of Trona, CA",earthquake,0.36,0.7,0.117,24.0,automatic,ci,ci
+2022-04-23T04:24:43.280Z,62.39,-150.8875,65.3,2.0,ml,,,,0.36,ak,ak02256y96qw,2022-04-23T04:26:19.334Z,"13 km SSW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-04-23T03:27:30.590Z,17.9715,-66.7118333333333,7.76,2.63,md,18.0,155.0,,0.13,pr,pr71345548,2022-04-23T04:25:55.820Z,"2 km S of Tallaboa, Puerto Rico",earthquake,0.3,0.29,0.170975723981662,13.0,reviewed,pr,pr
+2022-04-22T09:21:36.729Z,28.40240479,-98.25241268,2.9590250650000005,2.4,ml,12.0,108.0,0.1284211995,0.3,tx,tx2022hvnj,2022-04-23T04:24:01.793Z,"9 km SW of Three Rivers, Texas",earthquake,3.129795326,3.192472493,0.2,4.0,reviewed,tx,tx
+2022-04-22T04:28:33.780Z,36.766,-121.4473333,9.16,0.67,md,13.0,151.0,0.001968,0.1,nc,nc73721565,2022-04-23T04:23:38.475Z,"9km SW of Ridgemark, CA",earthquake,0.57,0.77,0.242,8.0,reviewed,nc,nc
