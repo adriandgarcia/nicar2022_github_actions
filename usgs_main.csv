@@ -14854,3 +14854,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T02:43:56.520Z,35.7875,-117.5911667,9.94,0.62,ml,10.0,197.0,0.02865,0.11,ci,ci40246696,2022-04-27T02:47:27.615Z,"17km W of Searles Valley, CA",earthquake,0.63,0.58,0.125,7.0,automatic,ci,ci
 2022-04-27T02:29:55.600Z,17.9756666666667,-66.8636666666667,13.73,2.09,md,8.0,194.0,,0.05,pr,pr71346373,2022-04-27T02:43:10.520Z,"2 km E of Maria Antonia, Puerto Rico",earthquake,0.84,0.31,0.051687378830473,7.0,reviewed,pr,pr
 2022-04-26T23:00:49.904Z,5.5881,126.3483,61.04,4.4,mb,,117.0,1.658,0.87,us,us6000hgkx,2022-04-27T03:34:52.040Z,"86 km ESE of Caburan, Philippines",earthquake,8.4,6.0,0.09,36.0,reviewed,us,us
+2022-04-27T04:26:23.247Z,58.6931,-152.1897,36.8,1.9,ml,,,,0.46,ak,ak0225dkeylu,2022-04-27T04:30:14.804Z,"75 km SSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-27T04:26:17.256Z,62.6766,-149.5423,3.7,1.5,ml,,,,0.69,ak,ak0225dkey5d,2022-04-27T04:29:48.486Z,"38 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-27T04:19:44.245Z,63.4112,-151.3376,0.0,1.1,ml,,,,0.81,ak,ak0225dkdi82,2022-04-27T04:29:49.688Z,"24 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-27T04:18:10.098Z,61.4075,-146.7658,30.3,0.9,ml,,,,0.67,ak,ak0225dkd7uo,2022-04-27T04:27:45.651Z,"38 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-27T04:08:00.760Z,37.3484,-115.0462,11.2,2.0,ml,24.0,124.45,0.743,0.2923,nn,nn00837934,2022-04-27T04:11:42.975Z,"10 km E of Alamo, Nevada",earthquake,,0.7,0.77,17.0,automatic,nn,nn
+2022-04-27T04:01:01.710Z,38.8333321,-122.7963333,2.7,0.85,md,9.0,123.0,0.006898,0.03,nc,nc73724976,2022-04-27T04:26:15.595Z,"6km W of Cobb, CA",earthquake,0.53,1.77,,1.0,automatic,nc,nc
