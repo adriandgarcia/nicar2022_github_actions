@@ -16576,3 +16576,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T00:51:19.220Z,44.6176667,-112.9895,4.21,1.03,ml,11.0,131.0,0.233,0.14,mb,mb80544839,2022-05-03T17:57:30.760Z,"30 km ESE of Leadore, Idaho",earthquake,0.43,2.61,0.217,7.0,reviewed,mb,mb
 2022-05-03T18:21:43.410Z,33.4108333,-116.9686667,16.27,0.66,ml,32.0,40.0,0.05712,0.15,ci,ci40251352,2022-05-03T18:43:07.155Z,"10km WSW of Aguanga, CA",earthquake,0.21,0.5,0.103,13.0,reviewed,ci,ci
 2022-05-03T16:58:43.432Z,17.6453,-106.1836,10.0,4.6,mb,,200.0,5.103,0.57,us,us7000h6u1,2022-05-03T18:36:55.040Z,"231 km SSW of Emiliano Zapata, Mexico",earthquake,9.6,1.9,0.036,239.0,reviewed,us,us
+2022-05-03T18:01:46.140Z,33.0531667,-114.9966667,-0.2,1.69,ml,14.0,80.0,0.08222,0.27,ci,ci40251336,2022-05-03T18:48:53.661Z,"45km NE of Holtville, CA",quarry blast,0.72,31.61,0.092,7.0,reviewed,ci,ci
+2022-05-03T07:20:35.960Z,48.438,-122.537,21.61,2.06,ml,35.0,44.0,0.04712,0.28,uw,uw61836306,2022-05-03T19:00:29.890Z,"6 km NNW of La Conner, Washington",earthquake,0.45,0.88,0.1299711642653482,4.0,reviewed,uw,uw
