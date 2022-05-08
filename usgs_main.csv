@@ -17817,3 +17817,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T22:54:52.338Z,61.4365,-149.9023,32.6,1.2,ml,,,,0.57,ak,ak0225w27n81,2022-05-08T23:08:11.564Z,"9 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-08T07:20:48.284Z,-19.8925,-70.2942,76.11,3.3,ml,,174.0,0.406,0.3,us,us7000h7wc,2022-05-08T23:08:24.361Z,"38 km NNW of Iquique, Chile",earthquake,5.8,5.6,0.074,24.0,reviewed,us,us
 2022-05-08T23:23:23.072Z,62.4923,-149.3425,45.4,1.2,ml,,,,0.82,ak,ak0225w2mddk,2022-05-08T23:29:35.888Z,"39 km E of Chase, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-05-08T23:38:12.464Z,63.1853,-149.5201,11.8,1.4,ml,,,,0.5,ak,ak0225w2pkaj,2022-05-08T23:51:34.403Z,"36 km SW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-08T23:07:22.630Z,17.992,-66.9976666666667,12.9,2.09,md,4.0,160.0,,0.05,pr,pr71347973,2022-05-08T23:47:07.710Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,2.38,0.63,0.0202015392818184,3.0,reviewed,pr,pr
