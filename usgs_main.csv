@@ -17654,3 +17654,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T01:16:52.330Z,38.8261681,-122.7621689,2.04,0.36,md,10.0,208.0,0.007419,0.03,nc,nc73730616,2022-05-08T01:49:15.849Z,"3km W of Cobb, CA",earthquake,0.58,1.1,,1.0,automatic,nc,nc
 2022-05-08T01:15:25.938Z,38.1982,-117.7495,8.2,1.5,ml,11.0,165.94,0.126,0.0982,nn,nn00838506,2022-05-08T01:19:34.848Z,"37 km SE of Mina, Nevada",earthquake,,0.6,0.08,7.0,automatic,nn,nn
 2022-05-08T01:14:30.212Z,39.2071,-119.843,10.8,0.7,ml,8.0,141.52,0.076,0.1623,nn,nn00838505,2022-05-08T01:18:15.180Z,"8 km NW of Carson City, Nevada",earthquake,,1.0,0.38,6.0,automatic,nn,nn
+2022-05-08T03:37:44.780Z,35.9233333,-117.7061667,7.79,0.84,ml,13.0,59.0,0.05148,0.18,ci,ci40254416,2022-05-08T03:41:22.758Z,"18km E of Little Lake, CA",earthquake,0.48,1.15,0.161,9.0,automatic,ci,ci
+2022-05-08T02:34:26.340Z,17.9115,-66.785,7.16,2.15,md,6.0,232.0,,0.08,pr,pr71347853,2022-05-08T03:08:43.770Z,"9 km SSE of Indios, Puerto Rico",earthquake,0.97,0.38,0.0048032934419826,5.0,reviewed,pr,pr
