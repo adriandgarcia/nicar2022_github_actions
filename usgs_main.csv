@@ -21074,3 +21074,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T16:05:34.360Z,38.7731667,-122.7211667,1.46,0.05,md,10.0,127.0,0.01191,0.02,nc,nc73736016,2022-05-21T09:10:11.384Z,"2km W of Anderson Springs, CA",earthquake,0.42,0.75,,1.0,reviewed,nc,nc
 2022-05-21T09:39:43.591Z,63.4208,-151.511,1.0,1.0,ml,,,,0.55,ak,ak0226hcdadb,2022-05-21T09:45:31.509Z,"17 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-21T09:33:26.170Z,33.9745,-116.5793333,7.47,1.0,ml,36.0,49.0,0.0856,0.15,ci,ci40023575,2022-05-21T09:44:29.130Z,"7km WNW of Desert Hot Springs, CA",earthquake,0.21,0.92,0.174,27.0,automatic,ci,ci
+2022-05-21T09:51:01.794Z,36.29756927,-98.17848206,3.125697613,2.12,ml,30.0,73.18418884,0.2598652244,0.4870070905,ok,ok2022jwny,2022-05-21T09:54:18.484Z,"5 km N of Ames, Oklahoma",earthquake,2.250867255,1.734783384,,24.0,automatic,ok,ok
+2022-05-21T09:47:34.899Z,59.7094,-152.8106,78.7,1.8,ml,,,,0.21,ak,ak0226hceya3,2022-05-21T09:58:26.601Z,"55 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
