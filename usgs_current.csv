@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T13:12:28.213Z,38.1613,-118.2062,10.4,1.7,ml,19,78.45,0.178,0.2095,nn,nn00842358,2022-07-07T13:15:42.555Z,"26 km SSW of Mina, Nevada",earthquake,,0.6,0.21,12,automatic,nn,nn
 2022-07-07T13:09:39.020Z,32.6506667,-115.7291667,8.47,1,ml,12,106,0.002703,0.18,ci,ci40298944,2022-07-07T13:13:12.414Z,"16km WNW of Progreso, B.C., MX",earthquake,0.56,0.66,0.291,6,automatic,ci,ci
 2022-07-07T13:06:58.240Z,38.8250008,-122.7975006,2.84,1.28,md,29,53,0.009951,0.02,nc,nc73755866,2022-07-07T13:34:12.885Z,"6km NW of The Geysers, CA",earthquake,0.24,0.41,0.08,6,automatic,nc,nc
-2022-07-07T13:05:52.400Z,17.9911666666667,-66.8418333333333,16.38,2.79,md,27,137,,0.21,pr,pr71357973,2022-07-07T13:25:32.930Z,"2 km W of Indios, Puerto Rico",earthquake,0.4,0.41,0.174638385310878,12,reviewed,pr,pr
+2022-07-07T13:05:52.400Z,17.9911666666667,-66.8418333333333,16.38,2.79,md,27,137,,0.21,pr,pr71357973,2022-07-07T14:50:28.040Z,"2 km W of Indios, Puerto Rico",earthquake,0.4,0.41,0.174638385310878,12,reviewed,pr,pr
 2022-07-07T13:04:48.967Z,61.4281,-146.6976,28.7,1.1,ml,,,,0.67,ak,ak0228n4sucg,2022-07-07T13:06:53.156Z,"38 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-07T12:52:21.970Z,38.8196678,-122.8118362,1.05,0.15,md,9,105,0.01844,0.02,nc,nc73755861,2022-07-07T13:22:13.807Z,"7km NW of The Geysers, CA",earthquake,0.32,1.42,,1,automatic,nc,nc
 2022-07-07T12:40:25.910Z,37.5675011,-118.9274979,8.52,1.13,md,11,225,0.06166,0.01,nc,nc73755851,2022-07-07T14:38:12.239Z,"9km SSE of Mammoth Lakes, CA",earthquake,1.03,1.51,0.2,11,automatic,nc,nc
